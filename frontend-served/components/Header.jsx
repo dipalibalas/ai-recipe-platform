@@ -16,9 +16,9 @@ export default function Header() {
                 <Button variant='ghost' className='text-stone-600 hover:text-orange-600 hover:bg-orange-50 font-medium'>Sign In</Button>
               </SignInButton>
               <SignUpButton mode='modal'>
-                <button  variant='primary' className="rounded-full px-6">
+                <Button  variant='primary' className="rounded-full px-6">
                   Get Started
-                </button>
+                </Button>
               </SignUpButton>
             </Show>
            </div>
