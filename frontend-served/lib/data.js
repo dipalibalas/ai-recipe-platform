@@ -120,3 +120,5 @@ export function getCountryFlag(country) {
 
   return emojiMap[country] ?? "🌍";
 }
+
+// GT50
